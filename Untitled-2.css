@@ -1,0 +1,164 @@
+table {
+    width: 100%;
+    background-image: url(fundo\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+h1 {
+    font-size: 24px;
+    color: rgb(137, 246, 104);;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+}
+.logo{background-color: indigo;
+height: 70px;
+border: 0px;
+margin: 0;
+text-align: center;}
+
+
+.cotemig{width: 60%;
+height: 0px;
+text-align: center;}
+
+
+.google {
+    width: 225px;
+text-align: center;
+}
+
+.matriculas {
+    width: 384px;
+    text-align: center;
+}
+
+td{
+    width: 25%;
+}
+.rosa { background-color:rgba(251, 69, 199, 1);
+height: 350px;
+border: 0px;
+color: white;}
+
+.verde {background-color: #89f668;;
+height: 250px;
+color: rebeccapurple;
+text-align: center;}
+
+.jpg2 {background-color: rgba(67, 11, 110, 1);
+height: 100px;
+border: 0px;
+width: 459px;
+color: greenyellow;
+text-align: center;}
+
+.jpg6 {background-color: rgba(67, 11, 110, 1);
+    width: 459px;
+    max-width: 100%;
+    height: auto;
+    border-bottom-style: none;
+    border-color: #000000;
+    border-left-style: none;
+    border-radius: 0px;
+    border-right-style: none;
+    border-top-style: none;
+    border-width: 1px;
+text-align: center;}
+
+.jpg5 {background-color: rgba(67, 11, 110, 1);
+        height: 100px;
+        border: 0px;
+        color: greenyellow;
+    text-align: center;}
+
+.jpg1 {background-color: rgba(67, 11, 110, 1);
+            height: 100px;
+            border: 0px;
+            color: greenyellow;
+        text-align: center;}
+
+
+.jpg555 {background-color: rgba(67, 11, 110, 1);
+                height: 100px;
+                border: 0px;
+                color: greenyellow;
+            text-align: center;}
+
+
+.c1 { background-color: #5b1078;  
+    color: rgb(137, 246, 104);
+min-height: 50px;
+justify-content: center;
+padding: 50px;
+text-align: center;}
+       
+
+
+
+    #coluna{ column-count: 3;
+     text-align: center;
+    color: #661083;
+font-weight: bold;}
+
+
+
+#fim{
+    column-count: 3;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    background-color: transparent;
+}
+
+#fm { 
+    color: white; 
+    text-align: center;
+    background-color: rgba(67, 11, 110, 1);
+}
+
+
+
+#tituloum { 
+    text-align: center;
+    font-size: 32px;
+    background-color: transparent;
+}
+
+
+#fzm  {
+ 
+    background-color: rgba(138, 77, 157, 1);
+   
+    color: #FFFFFF;
+    cursor: pointer;
+    font-family: Raleway, sans-serif;
+    font-size: 19px;
+    font-weight: bold;
+    height: 50px;
+    line-height: 50px;
+    border-radius: 15px;
+    text-align: center;
+    text-decoration: none;
+    width: 300px;
+    padding-right: 10px;
+    padding-left: 10px;
+      margin: auto;
+}
+
+.fundoroxo{
+    background-color: rgba(67, 11, 110, 1);
+     text-align: center;
+}
+.imagemtelefone{
+    text-align: center;
+}
+.imagemgoogle{ 
+    text-align: center;
+}
+.imagemmatricula{
+    text-align: center;
+}
